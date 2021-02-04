@@ -1,7 +1,3 @@
 1r arxiu
-<<<<<<< HEAD
 1r canvi
 2n canvi
-=======
-1r canvi
->>>>>>> branch1
